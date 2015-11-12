@@ -1,0 +1,35 @@
+{
+  "name": "jquery.input-allow",
+  "version": "0.1.0",
+  "homepage": "http://callmejay.com/project/jquery.input-allow",
+  "authors": [
+    {
+      "name": "Jason Yung",
+      "email": "jyung@gmail.com",
+      "homepage": "http://callmejay.com/"
+    }
+  ],
+  "description": "a jQuery plugin that unobtrusively filters text input as you type.",
+  "main": "jquery.input-allow.js",
+  "keywords": [
+    "jquery",
+    "input",
+    "allow",
+    "keypress",
+    "filter",
+    "mask",
+    "text",
+  ],
+  "license": "MIT",
+  "ignore": [
+    "demo/",
+    "*.md"
+  ],
+  "dependencies": {
+    "jquery": ">=1.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bitstrider/jquery.input-allow.git"
+  }
+}
